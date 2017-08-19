@@ -1,7 +1,3 @@
-[user]
-	name = blan0829
-[user]
-	email = taylor.blanton@usablelife.com
 [http]
 	sslVerify = false
 [alias]
